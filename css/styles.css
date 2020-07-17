@@ -193,6 +193,7 @@ a:hover {
 }
 
 .col {
+    min-height: 450px;
     float: left;
     margin-top: 10px;
     padding-right: 1em;
@@ -307,8 +308,5 @@ a:hover {
 .footer-nav {
     display: inline;
 }
-
-
-
 }
 
