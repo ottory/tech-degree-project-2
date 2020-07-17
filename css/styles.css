@@ -110,7 +110,7 @@ a:hover {
 
 .main-header  {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: light;
+    font-weight: lighter;
     color: #000;
     background-color: rgb(253, 253, 253);
     text-align: center;
@@ -138,7 +138,7 @@ a:hover {
     display: block;
     color: #000;
     font-size: 1em;
-    font-weight: light;
+    font-weight: lighter;
     padding: 0 20px;
     text-transform: uppercase;
 }
